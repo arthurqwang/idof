@@ -57,4 +57,4 @@
 
 **`大同数智 和而不同`**
 <br><br>
-<img alt="智能数字油田开放论坛logo" src="iDof_logo_banner.png">
+<img alt="智能数字油田开放论坛logo" src="iDOF_logo_banner.png">
