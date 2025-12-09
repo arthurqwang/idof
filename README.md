@@ -55,6 +55,64 @@
 
 <br>
 
-**`大同数智 和而不同`**
+# Architecture for Intelligent & Digital Oilfileds Based-on AI
+
+Arthur Quan Wang, Dec. 29, 2024
+
+On December 29, 2024, during the online lecture "Exploring the New Paradigm of Enterprise Digital & Intelligence System Based on AI" in the petroleum & energy industry, Wang Quan proposed for the first time this architecture using the digitalization of oil and gas fields as an example. This architecture can be seen as an upgraded version of its "Digital Oilfield Reference Architecture (DORA)" proposed in 2003.
+
+----------
+
+
+## 1 Philosophy of Big Systems View
+The new AI based reference architecture for intelligent oil and gas fields highlights the concept of Big System Thinking and establishes a clear logical philosophical paradigm for subject-object interaction in big system logic:
+### Subject
+Oil and gas field enterprises, as well as people, as the main body of the system, carry the mission of the system - Enterprise Reengineering - Digital Transformation and Intelligent Development;
+### Object
+Oil and gas field enterprise entities, AI intelligent agents, bottom-up data resources, information resources, knowledge resources, intellectual resources, as well as digital twins and virtual employees;
+### Tool
+The computing power services, tool services, model services, agent services used by the subject to operate the object, as well as the holographic intelligent ecosystem that fully supports the subject's behavior.
+
+<img alt="AIDOBAI_English Pic" src="AIDOBAI_English.png">
+
+
+## 2 Architecture Hierarchy
+The reference architecture for digital oil and gas fields based-on AI is divided into 7 layers, namely the Foundation Layer, Access Layer, Model Layer, Agent Layer, Holograph Layer, Collaboration Layer, and Mission Layer.
+
+### Foundation Layer
+This is the bottom layer of the architecture, which includes various data resources and computing resources.Data Resources cover various forms of raw data collected by various equipment and instruments, as well as manually in oil and gas field operations, including various dynamic, static, and real-time time-series data of various wells and stations, such as seismic data, drilling data, logging data, well logging data, fracturing data, testing data, production data, QHSE data, research data, and operational data. These data are transmitted to the corresponding locations through on-site IoT, production network, and office network. Computing Power Service include computing power center (cloud based general computing, professional software high-performance computing, artificial intelligence dedicated computing, and storage and network transmission capabilities), algorithm center, data center, software center, operation and maintenance center, and edge computing.
+
+### Access Layer
+This layer provides access interfaces to basic layer resources, including professional software such as MIS, ERP, MES, OA, as well as various apps, middleware, and other tool services. Tool Services call Information Resources from data lakes, data warehouses, and data ports to complete specified tasks. According to the ownership, data can be divided into private and public categories; According to the storage method, data can be divided into structured and unstructured, as well as relational databases, vector databases, full-text search databases, etc. Different data is not only an objective existence that the system must face, but also a guarantee for completing various service tasks.
+
+### Model Layer
+At this level, response is provided to upper level calls through Model Services. We need to build a multi-level model system consisting of business models, professional models, and basic/industry models. Firstly, it is necessary to adopt domestic and foreign basic large-scale models, whether open source or closed source, based on the situation of the oil and gas field itself, and establish a large-scale model for the field or industry; Then, based on basic/industry models, establish professional models that meet different professional needs, and also establish models for specific technical nodes in oil reservoirs, wellbores, pipelines, engineering, and other aspects; Finally, it is necessary to establish a directly business oriented model to provide services for scientific research, production, management, decision-making, and more. These large and small models utilize Knowledge Resources to achieve task goals by calling on natural language processing, vision, knowledge graph, inference, diffusion, innovation, alignment, machine learning, spatial intelligence, big data tools, and various other models and algorithms.
+
+### Agent Layer
+This layer is provided with Agent Services for humans by Intelligent Resources. Numerous intelligent agents at different levels, with different functions and roles, will be linked into groups to form an intelligent agent collaboration network, achieving intelligent linkage and cooperation among agents, assistants, embodied intelligence, and others. By connecting one or a few intelligent agents, humans can achieve the desired results. If the connected intelligent agent cannot meet the needs raised by the person, it will find other intelligent agents that can solve the problem through automatic gateway or routing, and request completion of related tasks. After all the work is completed, the intelligent agent connected to the person will provide feedback on the task execution results to the person.
+
+### Holograph Layer
+At this level, establish a holographic intelligent ecosystem based on holographic digital twins of oil and gas fields, with smooth information flow, timely and accurate data, and a natural and user-friendly interface. Through the holographic intelligent ecosystem, humans can form a collaborative alliance with artificial intelligence agents - virtual employees - in a master-slave relationship, driven by human thinking and supplemented by the system will of artificial intelligence agents. They can master and apply the holographic technology of oil and gas field production research, operation management, and strategic decision-making, and achieve efficient intelligent management of the entire life cycle of oil and gas fields.
+
+### Collaboration Layer
+At this level, achieve human-machine co-governance. Human and AI jointly manage oil and gas fields, and artificial intelligence comprehensively supports and jointly operates Command Centers, Decision-making Centers, Monitoring & Control Centers, and Research Centers at all levels of oil and gas fields. It is necessary to ensure that people are the most important participants and ultimate decision-makers in the operation of oil and gas fields.
+
+### Mission Layer
+This is the top-level of the architecture, representing the strategy and mission of the enterprise, and serving as the guiding ideology and ultimate goal of the entire architecture. Digital transformation and intelligent development are a process of reengineering enterprise systems, which is a significant adjustment and change in the structure of enterprise systems. Everyone who leads, implements and participates in this Enterprise Reengineering needs a Big Systems View.
+
+## 3 Practical Guidance
+A complete set of strategic ideas for digital transformation and intelligent development of oil and gas fields can provide theoretical and practical guidance for the digital construction of enterprises in the future, as well as the design and construction of a series of specific implementation plans. However, this reference framework is not an immediately implementable technical framework or implementation plan, it is only a guiding philosophical thinking framework at the methodological level. Each oil and gas field should develop a suitable digital intelligent oil and gas field construction framework and implementation route based on its own actual situation. In general, simplification and optimization can be carried out on this basis, and should not be limited to the representation of this reference architecture.
+
+----------
+
+<br>
+
+
+
+
+
+
+**`大同数智 和而不同`**<br>
+**`A World of Great Harmony from Big Systems View`**
 <br><br>
 <img alt="智能数字油田开放论坛logo" src="iDOF_logo_banner.png">
